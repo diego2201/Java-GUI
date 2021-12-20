@@ -1,0 +1,6 @@
+VEH_ID	VEH_IMG
+veh11	veh11.jpg
+veh12	veh12.jpg
+veh13	veh13.jpg
+veh14	veh14.jpg
+veh15	veh15.jpg
